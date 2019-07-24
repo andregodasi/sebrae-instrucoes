@@ -1,0 +1,92 @@
+.link-estilo {
+    background-color: transparent;
+    border: none;
+    color: azure;
+    font-size: -webkit-xxx-large;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+
+  .corpo {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+  }
+
+  .texto-30 {
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35px;
+  }
+
+  .texto-35 {
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35px;
+  }
+
+  .texto-24 {
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+  }
+
+  .texto-14 {
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+  }
+
+  .wraper-saiba-mais {
+    margin-bottom: 50px;
+    padding-top: 20px;
+    text-align: right !important;
+    padding-right: 65px;
+  }
+
+  .btn-saiba-mais {
+    background-color: #FFFFFF;
+    color: #007AC2;
+    border-radius: 50px;
+    font-size: 12px;
+    font-weight: 600;
+    width: 130px;
+  }
+
+  .img-topo {
+    margin-top: 300px;
+    height: 400px;
+  }
+
+  .texto-1 {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: -555px;
+  }
+
+  .image-conf {
+    width: 50%;
+    height: 50%;
+  }
+
+  .font-card-header {
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    margin: auto 0;
+    
+  }
+
+  .container-card {
+    margin-bottom: 1rem;
+  }
+
+  @media screen and (min-width: 992px) {
+    .image-conf {
+     width: 75%;
+    }
+  }
